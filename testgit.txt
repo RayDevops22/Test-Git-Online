@@ -2,3 +2,4 @@ Hello Meow,
 
 New line of text
 For Git Commit
+New Line
