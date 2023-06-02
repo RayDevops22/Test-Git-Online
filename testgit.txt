@@ -1,0 +1,4 @@
+Hello Meow,
+
+New line of text
+For Git Commit
